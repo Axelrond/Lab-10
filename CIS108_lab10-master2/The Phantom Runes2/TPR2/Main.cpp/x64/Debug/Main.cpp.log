@@ -1,0 +1,26 @@
+﻿  armor.cpp
+  item.cpp
+  Main.cpp
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(22): warning C4083: expected '('; found identifier 'disable'
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(23): warning C4083: expected '('; found identifier 'disable'
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(24): warning C4083: expected '('; found identifier 'disable'
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(151): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(153): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(153): warning C4129: '|': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(155): warning C4129: '_': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(156): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(158): warning C4129: '/': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(159): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(159): warning C4129: '_': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(160): warning C4129: '_': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(313): warning C4129: '|': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(345): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(346): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(366): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(380): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(400): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  mobclass.cpp
+  Sojourner.cpp
+  weapon.cpp
+  Generating Code...
+  Main.cpp.vcxproj -> C:\Users\Noah\source\repos\CIS108_lab10-redo2\CIS108_lab10-master2\The Phantom Runes2\TPR2\x64\Debug\TPR.exe
